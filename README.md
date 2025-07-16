@@ -1,68 +1,52 @@
-# 🌟 Ongoing Summer Internship 2025 @ TatvaSoft
+<h1 align="center">Virtual Community Support 🌐</h1>
+<h3 align="center">Internship Project | TatvaSoft | Summer 2025 | Full Stack (Angular + .NET + PostgreSQL)</h3>
 
-Welcome to my internship repository! I’m currently pursuing a **Summer Internship at TatvaSoft** as part of my 6th Semester program. This internship focuses on full-stack web development, database management, and cloud deployment, centered around building a **Virtual Community Support Platform**.
-
----
-
-## 🏢 Internship Details
-
-- **Company:** TatvaSoft  
-- **Duration:** Summer 2025 (10 Days)  
-- **Mode:** Virtual  
-- **Status:** 🔄 *Currently in Progress*  
-- **Objective:** Build and manage an interactive mission-based community platform  
-- **Focus Areas:** Angular, .NET Core API, PostgreSQL, AWS
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
 ---
 
-## 📅 Daily Progress & Learning
+## 📋 Overview
 
-### ✅ Day 1: PostgreSQL
-- Setup PostgreSQL environment.
-- Performed basic SQL operations (Create, Read, Update, Delete).
-- Practiced subqueries and schema understanding.
-
-### ✅ Day 2: Angular
-- Introduction to Angular framework.
-- Created basic Angular components and forms.
-- Hands-on with two-way data binding.
-
-### ✅ Day 3: .NET Core, Code First, LINQ
-- Setup .NET Core Web API project with Swagger.
-- Implemented Code First using Entity Framework.
-- Built login API using LINQ and repository pattern.
-
-### ✅ Day 4: Authentication & Role-Based Authorization
-- Explored JWT-based authentication.
-- Implemented Admin/User role-based access control.
-- Developed secure login page.
-
-### ✅ Day 5: User Management (CRUD + Filters)
-- Worked on user data retrieval using LINQ.
-- CRUD operations for user records.
-- Added sorting, filtering, and paging.
-
-### 📌 Upcoming:
-- CRUD for Missions, Skills, and Themes.
-- User-side listings and mission applications.
-- My Profile Page & AWS Deployment.
+> This project was developed during my **TatvaSoft Summer Internship (2025)**.  
+> It is a CSR-based web platform to help companies manage employee engagement in community initiatives.  
+> Developed using **.NET Core**, **Angular**, and **PostgreSQL** following clean code practices and real-world authentication logic.
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Technologies Used
 
-- **Frontend:** Angular  
-- **Backend:** .NET Core Web API  
-- **Database:** PostgreSQL  
-- **ORM:** Entity Framework (Code First)  
-- **Authentication:** JWT, RBAC  
-- **Cloud:** AWS (Deployment in final phase)
+<p align="left">
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
+  <a href="https://angular.io/" target="_blank"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+  <a href="https://www.w3schools.com/sql/" target="_blank"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+  <a href="https://learn.microsoft.com/en-us/ef/" target="_blank"><img src="https://img.shields.io/badge/Entity%20Framework-6DB33F?style=for-the-badge&logo=.net&logoColor=white"/></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
+  <a href="https://swagger.io/" target="_blank"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🚀 Highlights (In Progress)
+## 🗓️ Day-Wise Internship Plan
 
-- 🛠️ Building a mission-driven platform.
-- 🔐 Implementing secure login & user roles.
-- 🔄 Full CRUD operations across modules.
-- ☁️ Preparing for AWS deployment.
+| Day | Topics Covered |
+|-----|----------------|
+| **Day 1** | PostgreSQL basics – create, insert, update, delete, sub-queries |
+| **Day 2** | Angular intro – forms, components, first project |
+| **Day 3** | .NET Web API, Swagger, EF Code First, LINQ, Login API |
+| **Day 4** | Role-based Authentication & Authorization (Admin/User) |
+| **Day 5** | CRUD: User table with pagination, sorting, joins |
+| **Day 6** | CRUD: Mission + Mission Theme |
+| **Day 7** | CRUD: Mission Skills + Mission Listing (User Side) |
+| **Day 8** | CRUD: Mission Application + Apply Mission (User) |
+| **Day 9** | Profile Page + Deployment Preparation |
+| **Day 10** | AWS Deployment session |
+
+---
