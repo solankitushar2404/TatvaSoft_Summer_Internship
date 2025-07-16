@@ -34,19 +34,20 @@
 
 ---
 
-## 🗓️ Day-Wise Internship Plan
+## 📅 Day-Wise Internship Plan
 
-| Day | Topics Covered |
-|-----|----------------|
-| **Day 1** | PostgreSQL basics – create, insert, update, delete, sub-queries |
-| **Day 2** | Angular intro – forms, components, first project |
-| **Day 3** | .NET Web API, Swagger, EF Code First, LINQ, Login API |
-| **Day 4** | Role-based Authentication & Authorization (Admin/User) |
-| **Day 5** | CRUD: User table with pagination, sorting, joins |
-| **Day 6** | CRUD: Mission + Mission Theme |
-| **Day 7** | CRUD: Mission Skills + Mission Listing (User Side) |
-| **Day 8** | CRUD: Mission Application + Apply Mission (User) |
-| **Day 9** | Profile Page + Deployment Preparation |
-| **Day 10** | AWS Deployment session |
+| Day      | Topics Covered                                                                 | GitHub Folder Link |
+|-----------|--------------------------------------------------------------------------------|---------------------|
+| Day 1     | PostgreSQL basics – CRUD, schema, subqueries                                  | [📁 Day 1](https://github.com/solankitushar2404/TatvaSoft_Summer_Internship/tree/main/Day%201) |
+| Day 2     | Angular intro – components, forms, output image                               | [📁 Day 2](https://github.com/solankitushar2404/TatvaSoft_Summer_Internship/tree/main/Day%202) |
+| Day 3     | .NET Web API, EF Code First, LINQ, Login API                                  | [📁 Day 3](https://github.com/solankitushar2404/TatvaSoft_Summer_Internship/tree/main/Day%203) |
+| Day 4     | Mission CRUD + Frontend integration                                            | [📁 Day 4](https://github.com/solankitushar2404/TatvaSoft_Summer_Internship/tree/main/Day%204) |
+| Day 5     | User CRUD operations, filtering, sorting, joins                               | [📁 Day 5](https://github.com/solankitushar2404/TatvaSoft_Summer_Internship/tree/main/Day%205) |
+| Day 6     | Mission Skill CRUD + Theme CRUD                                               | [📁 Day 6](https://github.com/solankitushar2404/TatvaSoft_Summer_Internship/tree/main/Day%206) |
+| Day 7     | Mission CRUD + Mission Listing (User Side)                                    | [📁 Day 7](https://github.com/solankitushar2404/TatvaSoft_Summer_Internship/tree/main/Day%207) |
+| Day 8     | Mission Apply feature + Application CRUD                                      | [📁 Day 8](https://github.com/solankitushar2404/TatvaSoft_Summer_Internship/tree/main/Day%208) |
+| Day 9     | Profile Page + Admin Profile Picture + Deployment setup                      | [📁 Day 9](https://github.com/solankitushar2404/TatvaSoft_Summer_Internship/tree/main/Day%209) |
+| Day 10    | AWS Services Overview + Deployment Strategy                                   | [📁 Day 10](https://github.com/solankitushar2404/TatvaSoft_Summer_Internship/tree/main/Day%2010) |
+
 
 ---
